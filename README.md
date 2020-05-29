@@ -1,9 +1,12 @@
 # border-data-by-student-
-we are trying to do new things with the data between two countries
+
+We are trying to do new things with the Data
+
 India is erecting a new non-cut 'steel fence' to plug vulnerable and infiltration-prone patches along its
 sensitive border with Pakistan. They said the single-row fence, with loops of concertina wires on top, is
 being erected at a 60-km border stretch in near Amritsar in Punjab. This fence will cost about Rs 2 crore
 for a kilometre, official sources said.
+
 Based on the feedback of these projects, new fence will be erected at more places where either the old one
 has worn out or there was no fence owing to geographical challenges.
 The sources informed that the Union home ministry has also advanced a technology-based project of deploying
@@ -11,6 +14,7 @@ The sources informed that the Union home ministry has also advanced a technology
 The Comprehensive Integrated Border Management System (CIBMS) that entails deployment of smart fences, 
 advanced surveillance gadgets and anti-infiltration alarms has been speeded up by the border management
 division under the Ministry of Home Affairs (MHA) and Border Security Force along these two borders.
+
 <html>
 
 <head>
@@ -21,6 +25,7 @@ red blood border
 
 
 <body>
+ 
 <img src="indo.jpeg" border="5" title="india pak" width="900" height="400" >
 
 
@@ -32,15 +37,17 @@ the Line of Control demarcates the areas of administration: Pakistan administers
 <img src="nasa.jpg" border="5" title="india pak" width="900" height="400" 
 <br>
 
-<h1> India building new 'steel fence' along Pakistan <h1>
+<h1> India building new 'steel fence' along Pakistan</h1>
 
  <p> India is erecting a new non-cut 'steel fence' to plug vulnerable and infiltration-prone patches along its sensitive border with Pakistan. They said the single-row fence, with loops of concertina wires on top, is being erected at a 60-km border stretch in near Amritsar in Punjab. This fence will cost about Rs 2 crore for a kilometre, official sources said. <br>
+ 
 Based on the feedback of these projects, new fence will be erected at more places where either the old one has worn out or there was no fence owing to geographical challenges. <br>
 
 The sources informed that the Union home ministry has also advanced a technology-based project of deploying 'laser fences' along these two borders, to five years as compared to the earlier 10-year deadline. <br>
 The Comprehensive Integrated Border Management System (CIBMS) that entails deployment of smart fences, advanced surveillance gadgets and anti-infiltration alarms has been speeded up by the border management division under the Ministry of Home Affairs (MHA) and Border Security Force along these two borders. <p> <br>
 
-<img src="line.jpg" border="5" title="india pak" width="900" height="400" <br>
+<img src="line.jpg" border="5" title="india pak" width="900" height="400">
+<br>
 <br> <br>
 
 Sources said that while infiltration bases and terror launch pads along the International Border (IB) in Jammu and Line of Control (LoC) in Kashmir are still intact, the latest concern of the security agencies are the well-trained terrorists from Afghanistan whose presence along the vulnerable infiltration spots along Pakistan border can be used to foment trouble in the newly-created Union Territory (UT) of Jammu-Kashmir and other locations in the hinterland. <br> <br>
@@ -51,8 +58,7 @@ There is lot of work that is happening to secure the borders along Pakistan and 
 
 Latest measures include strengthening Indian defences along Pakistan, mapping of infiltration prone areas along the two borders, and erection of new steel fence along vulnerable patches. <br>
 
-<img src="ind pak.jpg" border="5" title="india pak" width="900" height="400" <br>
-
+<img src="ind pak.jpg" border="5" title="india pak" width="900" height="400">
 
 </p>
 
