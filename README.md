@@ -18,9 +18,11 @@ division under the Ministry of Home Affairs (MHA) and Border Security Force alon
 <html>
 
 <head>
-<title>
+ 
+<h1>
 red blood border
-</title>
+ </h1>
+ 
 </head>
 
 
@@ -48,8 +50,7 @@ The Comprehensive Integrated Border Management System (CIBMS) that entails deplo
 
 <img src="line.jpg" border="5" title="india pak" width="900" height="400">
 <br>
-<br> <br>
-
+<h1> Line of control </h1>
 Sources said that while infiltration bases and terror launch pads along the International Border (IB) in Jammu and Line of Control (LoC) in Kashmir are still intact, the latest concern of the security agencies are the well-trained terrorists from Afghanistan whose presence along the vulnerable infiltration spots along Pakistan border can be used to foment trouble in the newly-created Union Territory (UT) of Jammu-Kashmir and other locations in the hinterland. <br> <br>
 The BSF, they said, has also recently completed and exercise to fully "map and identify" vulnerable spots all along these two borders as part of a three-staged exercise carried out last year. <Br> <br>
 
