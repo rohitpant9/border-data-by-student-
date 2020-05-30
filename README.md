@@ -2,6 +2,21 @@
 
 We are trying to do new things with the Data
 
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0287971496582,
+          34.088776986675654
+        ]
+      }
+    }
+
 India is erecting a new non-cut 'steel fence' to plug vulnerable and infiltration-prone patches along its
 sensitive border with Pakistan. They said the single-row fence, with loops of concertina wires on top, is
 being erected at a 60-km border stretch in near Amritsar in Punjab. This fence will cost about Rs 2 crore
